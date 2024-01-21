@@ -1,0 +1,10 @@
+d1,ball
+d2,phone
+d3,wheel
+d4,bear
+d5,dress
+d6,potato
+d7,night
+d8,knife
+d9,reed
+d10,soil

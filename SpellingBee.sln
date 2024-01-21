@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SpellingBee", "SpellingBee\SpellingBee.vbproj", "{14EF85D1-5265-494C-BD16-2F1D73CD4803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14EF85D1-5265-494C-BD16-2F1D73CD4803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14EF85D1-5265-494C-BD16-2F1D73CD4803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14EF85D1-5265-494C-BD16-2F1D73CD4803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14EF85D1-5265-494C-BD16-2F1D73CD4803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3E208C-7E60-455B-9671-006DA177C5E1}
+	EndGlobalSection
+EndGlobal
